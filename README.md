@@ -3,8 +3,13 @@
 
 ![Example Image](./example.png)
 
-
 ### Build
+
+Deploy to Vercel.
+
+```zsh
+npm run deploy
+```
 
 ### License
 
