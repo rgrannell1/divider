@@ -1,0 +1,12 @@
+{
+  "name": "divider",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Róisín Grannell <r.grannell2@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^20.1.2"
+  }
+}
