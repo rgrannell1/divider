@@ -3,7 +3,17 @@
 
 ![Example Image](./example.png)
 
-### Build
+Do you want a divider in your Ubuntu sidebar? 
+
+- Navigate to https://divider.rgrannell2.vercel.app/
+- Click Settings ⟶ More Tools ⟶ Create Shortcut (Chrome)
+- Navigate to Activities (Super Key)
+- Type "divider"
+- Add to favourites
+
+This is clearly a terrible solution.
+
+## Build
 
 Deploy to Vercel.
 
@@ -11,7 +21,7 @@ Deploy to Vercel.
 npm run deploy
 ```
 
-### License
+## License
 
 The MIT License
 
